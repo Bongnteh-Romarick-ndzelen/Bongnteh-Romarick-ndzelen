@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Bongnteh-Romarick-ndzelen
+- 👀 I’m interested in marchine learning, AI and cyber security...
+- 🌱 I’m currently learning Django and flutter...
+- 💞️ I’m looking to collaborate with other software developers..
+
+
