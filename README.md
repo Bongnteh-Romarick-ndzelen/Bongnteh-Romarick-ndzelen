@@ -22,6 +22,8 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in **AI, w
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 **Databases & Tools**:  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -43,9 +45,8 @@ I’m open to:
 📫 Reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Your_Twitter_Profile_URL)
-📧 Email: ndzelenromarick@gmail.com
+📧 Email: your.email@example.com
 
 ---
 
 ⭐ **Fun Fact**: I automate my daily tasks just to prove I’m lazier than I look!
-
