@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Romarick (Bongnteh Romarick Ndzelen)
+# 👋 Hello, I'm Romarick, 
 
 **Machine Learning | Full-Stack Development | Cybersecurity Enthusiast**
 
@@ -45,7 +45,7 @@ I’m open to:
 📫 Reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Your_Twitter_Profile_URL)
-📧 Email: your.email@example.com
+📧 Email: ndzelenromarick@gmail.com
 
 ---
 
